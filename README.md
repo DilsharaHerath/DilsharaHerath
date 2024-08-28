@@ -21,6 +21,7 @@ learning and computer vision related areas.
  
 - Software:
   - Development Environments: Jupyter Notebook, VS Code
+  - Languages: Python, C, C++
 
 - Full Stack Development:
   - Frontend: HTML, CSS, JavaScript, React

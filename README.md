@@ -15,10 +15,10 @@ learning and computer vision related areas.
 ### Skills and Interests
 
 - AI/ML:
--- Deep Learning Frameworks
--- Natural Language Processing
--- Computer Vision
--- Model Deployment
+- - Deep Learning Frameworks
+- - Natural Language Processing
+- - Computer Vision
+- - Model Deployment
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

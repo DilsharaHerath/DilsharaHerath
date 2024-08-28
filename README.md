@@ -16,9 +16,16 @@ learning and computer vision related areas.
 
 - AI/ML:
   - Deep Learning Frameworks
-  - Natural Language Processing
   - Computer Vision
-  - Model Deployment
+  - Machine Learning Model Deployment
+ 
+- Software:
+  - Development Environments: Jupyter Notebook, VS Code
+
+- Full Stack Development:
+  - Frontend: HTML, CSS, JavaScript, React
+  - Backend: Node.js, Express
+  - Database: MongoDB, SQL
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Dilshara Herath.</h1>
-<h3 align="center">I'm a passionate Research Student with a deep passion for advancing in Machine Learning and Computer Vision</h3>
+<!-- <h3 align="center">I'm a passionate Research Student with a deep passion for advancing in Machine Learning and Computer Vision</h3> -->
+## Hello 👋 I am Dilshara Herath.
 
 # AI/ML | Computer Vision | Research Hub 👩‍🔬🤖
 
 ### About Me
 
-A self motivated and passionate individual who has a palpable desire to research into machine learning, deep
-learning and computer vision related areas.
+I am a self motivated and passionate research student with a deep pasion in Machine Learning, Deep
+Learning and Computer Vision related areas. Eager to contribute to transformative projects that expand the boundaries of AI and create
+meaningful, scalable impact in areas such as healthcare, security, and beyond.
 
 - 🔬 I’m currently working as a **Research Assistant** at MARC Research Group at **University of Peradeniya** and engaging in research related to Computer Vision
 

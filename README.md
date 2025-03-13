@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Dilshara Herath.</h1>
-<h3 align="center">A passionate final year Engineering Undergraduate from Sri Lanka.</h3>
+<h3 align="center">I'm a passionate Research Student with a deep passion for advancing in Machine Learning and Computer Vision</h3>
+
+# AI/ML | Computer Vision | Research Hub 👩‍🔬🤖
 
 ### About Me
 
 A self motivated and passionate individual who has a palpable desire to research into machine learning, deep
 learning and computer vision related areas.
 
-- 🔭 I’m currently working on **Extremely Low Frequency (ELF) based Sensing and AI/ML-based Identification of Micro-UAS**
+- 🔬 I’m currently working as a **Research Assistant** at MARC Research Group at **University of Peradeniya** and engaging in research related to Computer Vision
 
 - 👨‍💻 My Portfolio [https://dilsharaherath.github.io/portfolio/](https://dilsharaherath.github.io/portfolio/)
 

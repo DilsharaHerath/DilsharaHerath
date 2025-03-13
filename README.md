@@ -1,11 +1,11 @@
 <!--<h1 align="center">Hi 👋, I'm Dilshara Herath.</h1>
- <h3 align="center">I'm a passionate Research Student with a deep passion for advancing in Machine Learning and Computer Vision</h3> -->
+ <h3 align="center">I'm a passionate Research Student with a deep passion for advancing in Machine Learning and Computer Vision</h3> 
+ ## Hello 👋 I am Dilshara Herath.
+ -->
 
 # AI/ML | Computer Vision | Research Hub 👩‍🔬🤖
 
-## Hello 👋 I am Dilshara Herath.
-
-## About Me
+## About Me 🙋‍♂️
 
 I am a self motivated and passionate research student with a deep pasion in Machine Learning, Deep
 Learning and Computer Vision related areas. Eager to contribute to transformative projects that expand the boundaries of AI and create
@@ -17,7 +17,7 @@ meaningful, scalable impact in areas such as healthcare, security, and beyond.
 
 - 📫 How to reach me **dilshara.herath3@gmail.com**
 
-## Skills and Interests
+## Skills and Interests 💻🛠️
 
 - AI/ML:
   - Deep Learning Frameworks
@@ -42,6 +42,10 @@ I'm always on the lookout for exciting collaborations. If you're interested in p
 - **Email**: [dilshara.herath3@gmail.com](dilshara.herath3@gmail.com)
 - **LinkedIn**: [MyLinkedInProfile](https://www.linkedin.com/in/dilshara-herath-3759a41aa)
 
+## Support 💖
+
+If you find my work useful, consider starring this repo or contributing to support further developments. Your support is greatly appreciated!
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dilshara-herath-3759a41aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dilshara-herath-3759a41aa" height="30" width="40" /></a>
@@ -59,3 +63,4 @@ I'm always on the lookout for exciting collaborations. If you're interested in p
 <p style="text-align: center;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilsharaherath&" alt="dilsharaherath" />
 </p>
+

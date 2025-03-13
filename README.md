@@ -1,10 +1,11 @@
-<h1 align="center">Hi 👋, I'm Dilshara Herath.</h1>
-<!-- <h3 align="center">I'm a passionate Research Student with a deep passion for advancing in Machine Learning and Computer Vision</h3> -->
-## Hello 👋 I am Dilshara Herath.
+<!--<h1 align="center">Hi 👋, I'm Dilshara Herath.</h1>
+ <h3 align="center">I'm a passionate Research Student with a deep passion for advancing in Machine Learning and Computer Vision</h3> -->
 
 # AI/ML | Computer Vision | Research Hub 👩‍🔬🤖
 
-### About Me
+## Hello 👋 I am Dilshara Herath.
+
+## About Me
 
 I am a self motivated and passionate research student with a deep pasion in Machine Learning, Deep
 Learning and Computer Vision related areas. Eager to contribute to transformative projects that expand the boundaries of AI and create
@@ -16,7 +17,7 @@ meaningful, scalable impact in areas such as healthcare, security, and beyond.
 
 - 📫 How to reach me **dilshara.herath3@gmail.com**
 
-### Skills and Interests
+## Skills and Interests
 
 - AI/ML:
   - Deep Learning Frameworks
@@ -31,6 +32,15 @@ meaningful, scalable impact in areas such as healthcare, security, and beyond.
   - Frontend: HTML, CSS, JavaScript, React
   - Backend: Node.js, Express
   - Database: MongoDB, SQL
+
+## Collaborations 🤝
+
+I'm always on the lookout for exciting collaborations. If you're interested in partnering on a project or have an idea you'd like to explore together, feel free to reach out!
+
+## Contact Me 📫
+
+- **Email**: [dilshara.herath3@gmail.com](dilshara.herath3@gmail.com)
+- **LinkedIn**: [MyLinkedInProfile](https://www.linkedin.com/in/dilshara-herath-3759a41aa)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
